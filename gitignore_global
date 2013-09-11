@@ -13,6 +13,7 @@ Icon?
 Thumbs.db
 ._*
 .AppleDouble
+node_modules
 
 # ZSH Plugin generated files #
 ##############################
